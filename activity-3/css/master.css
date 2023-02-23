@@ -27,4 +27,7 @@ div.review{
     background-color: #eee;
     margin: 20px 0 20px 0;
 }
+div.review:hover{
+    background-color: #bbb;
+}
 /*# indicates an ID*/
